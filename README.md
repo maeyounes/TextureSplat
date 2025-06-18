@@ -4,7 +4,7 @@
 This repository will soon contain the implementation of TextureSplat, a method that improves inverse rendering for complex reflective scenes by enhancing Gaussian Splatting with spatially variable materials and GPU-accelerated texture atlases, enabling high-fidelity radiance fields via geometrically grounded primitives.
 
 
-# [Project (Soon)](https://github.com/maeyounes/TextureSplat) | [Paper](https://arxiv.org/submit/6545179/view)
+# [Project (Soon)](https://github.com/maeyounes/TextureSplat) | [Paper](https://arxiv.org/abs/2506.13348)
 
 
 ![Teaser](static/teaser_0.png)
