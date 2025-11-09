@@ -1,5 +1,5 @@
 # TextureSplat
-## TextureSplat: Per-Primitive Texture Mapping for Reflective Gaussian Splatting
+## TextureSplat: Per-Primitive Texture Mapping for Reflective Gaussian Splatting (3DV 2026)
 
 This repository will soon contain the implementation of TextureSplat, a method that improves inverse rendering for complex reflective scenes by enhancing Gaussian Splatting with spatially variable materials and GPU-accelerated texture atlases, enabling high-fidelity radiance fields via geometrically grounded primitives.
 
