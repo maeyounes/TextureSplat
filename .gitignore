@@ -1,0 +1,6 @@
+.vscode
+output
+build
+data
+**/PKG-INFO
+**__pycache__**
