@@ -13,7 +13,6 @@
 
 <br/>
 
-<img src="static/teaser_0.png" width="90%"/>
 
 </div>
 
@@ -40,7 +39,7 @@ non-trivial speedup over the software path used during training.
 ## Method at a glance
 
 <div align="center">
-  <img src="assets/pipeline.png" width="90%"/>
+  <img src="static/teaser_0.png" width="90%"/>
 </div>
 
 The training pipeline runs in **four stages** using `train.py`:
