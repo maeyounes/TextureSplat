@@ -24,7 +24,7 @@ attach a small texture map to each primitive for
 **albedo**, **metallic**, **roughness**, and a **tangent-space normal map**.
 The 2D Gaussian's local `(u, v)` parameterisation gives us texture
 coordinates at the ray–splat intersection, so high-frequency surface detail
-and detailed normals are recovered **without growing the primitive count**. This work can also benefit 3DGS-based inverse rendering methods with spatially varying material attributes.
+and detailed normals are recovered **without growing the primitive count**. This work can also benefit 2DGS-based inverse rendering methods with spatially varying material attributes.
 
 At test time the per-primitive textures are packed into a CUDA texture-object
 atlas and sampled with hardware bilinear filtering (`tex2D`) for a
